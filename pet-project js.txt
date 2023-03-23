@@ -1,0 +1,35 @@
+REVIEW GENERATOR/ (WEB EVALUATOR) :
+
+This app will generate review regarding different websites.
+
+ 
+
+MVP Features:
+
+User can enter the URL of different websites.
+ (Form will be used to take input from the user.)
+
+Then user can give review for different aspects of a specific website like its,
+ *Visual design
+
+ *Responsiveness
+
+ *Easy to navigate
+
+ *Accessible
+
+ *Loading Time
+
+ *Content
+
+Then final review will be generated which is average of all aspects, in terms of 5 star to 1 star.(5 is the top-rated number and 1 is minimum) 
+User can give as many reviews as he wants to give.
+For now, user entered reviews will not be saved in database.
+Two already hard code reviews will be displaying on screen.
+
+
+-User should be able to enter name/title of website.
+
+
+
+Approved.
